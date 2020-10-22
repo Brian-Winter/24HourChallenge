@@ -9,7 +9,7 @@ namespace NerdyNetwork.Data
 {
     public class User
     {
-        [key]
+        [Key]
         public int UserId { get; set; }
         [Required]
         public Guid OwnerId { get; set; }
