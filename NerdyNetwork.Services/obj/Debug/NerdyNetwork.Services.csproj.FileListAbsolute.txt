@@ -1,0 +1,16 @@
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\NerdyNetwork.Services.dll.config
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\NerdyNetwork.Services.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\NerdyNetwork.Services.pdb
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\obj\Debug\NerdyNetwork.Services.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\obj\Debug\NerdyNetwork.Services.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\obj\Debug\NerdyNetwork.Services.csproj.CopyComplete
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\obj\Debug\NerdyNetwork.Services.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Services\obj\Debug\NerdyNetwork.Services.pdb

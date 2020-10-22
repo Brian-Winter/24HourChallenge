@@ -1,0 +1,16 @@
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Models.dll.config
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Models.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Models.pdb
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.csproj.CopyComplete
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.pdb
