@@ -32,8 +32,8 @@ namespace NerdyNetwork.Data
         {
             return new ApplicationDbContext();
         }
-        public DbSet<Like> Likes { get; set; }
-        public DbSet<Comment> Comments { get; set; }
+        public DbSet<Likes> Likes { get; set; }
+        public DbSet<Comments> Comments { get; set; }
         public DbSet<Reply> Replies { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
