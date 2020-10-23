@@ -20,3 +20,4 @@ namespace NerdyNetwork.Data
         public int PostId { get; set; }
         public Post CommentPost { get; set; }
     }
+}

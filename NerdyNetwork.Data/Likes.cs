@@ -9,7 +9,7 @@ namespace NerdyNetwork.Data
 {
     public class Likes
     {
-        [ForeignKey(nameof(Post)]
+        [ForeignKey(nameof(Post))]
         public int PostId { get; set; }
         public Post LikedPost { get; set; }
         [ForeignKey(nameof(User))]
