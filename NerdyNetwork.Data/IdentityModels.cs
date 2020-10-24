@@ -27,6 +27,12 @@ namespace NerdyNetwork.Data
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
+
+        public DbSet<User> Authors { get; set; }
+        public DbSet<Post> Posts { get; set; }
+        public DbSet<Likes> Likes { get; set; }
+        public DbSet<Comments> Comments { get; set; }
+        public DbSet<Reply> Replies { get; set; }
         
         public static ApplicationDbContext Create()
         {
