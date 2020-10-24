@@ -54,11 +54,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommentCreate.cs" />
+    <Compile Include="CommentListItem.cs" />
+    <Compile Include="CommentService.cs" />
+    <Compile Include="LikeCreate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NerdyNetwork.Data\NerdyNetwork.Data.csproj">
+      <Project>{20ed9a8b-634d-4e4e-878d-e4150c3735d9}</Project>
+      <Name>NerdyNetwork.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NerdyNetwork.Services\NerdyNetwork.Services.csproj">
+      <Project>{52ba5355-d7b6-47d4-8ae6-843da26252c5}</Project>
+      <Name>NerdyNetwork.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
