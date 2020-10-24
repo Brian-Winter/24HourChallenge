@@ -68,3 +68,5 @@ C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Data\obj\Debug\NerdyNetwork.
 C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Data\obj\Debug\NerdyNetwork.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Data\obj\Debug\NerdyNetwork.Data.dll
 C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Data\obj\Debug\NerdyNetwork.Data.pdb
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Data\obj\Debug\NerdyNetwork.Data.Migrations.first.resources
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Data\obj\Debug\NerdyNetwork.Data.csproj.GenerateResource.cache

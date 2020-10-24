@@ -16,7 +16,7 @@ namespace NerdyNetwork.Data
 
         [ForeignKey(nameof(Comments))]
         public int CommentId { get; set; }
-        public Comments Comment { get; set; }
+        public Comments Comments { get; set; }
         // public int MyProperty { get; set; } replyComment
     }
 }
