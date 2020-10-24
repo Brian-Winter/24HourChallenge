@@ -14,7 +14,7 @@ namespace NerdyNetwork.Data
         public int PostId { get; set; }
         public string Title { get; set; }
         [Required]
-        [MaxLength(500, ErrorMessage = "Are you writing a novel? Please write")]
+        [MaxLength(500, ErrorMessage = "Are you writing a novel? Only 500 characters please!")]
         public string Text { get; set; }
         [ForeignKey("User")]
         public int UserId { get; set; }
