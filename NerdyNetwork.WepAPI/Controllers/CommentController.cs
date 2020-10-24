@@ -16,7 +16,7 @@ namespace NerdyNetwork.WepAPI.Controllers
         //CREATE Comment
         private CommentService CreateCommentService()
         {
-            var postId = Post.postId;
+            var postId = Comment.PostId;
             var commentService = new CommentService(postId);
             return commentService;
         }
