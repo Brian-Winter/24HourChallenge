@@ -5,6 +5,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using System.Web.Http;
 
@@ -14,8 +15,7 @@ namespace NerdyNetwork.WepAPI.Controllers
     public class UserController : ApiController
     {
         private readonly ApplicationDbContext _context = new ApplicationDbContext();
-
-        //POST | api/user
+                
         [HttpPost]
         public async Task<IHttpActionResult> Create([FromBody] User userToCreate)
         {
@@ -23,15 +23,14 @@ namespace NerdyNetwork.WepAPI.Controllers
             await _context.SaveChangesAsync();
             return Ok(createdUser);
         }
-        //GET all users| api/user
+        
         [HttpGet]
         public async Task<IHttpActionResult> GetAllUsers(int id)
         {
             List<User> authors = await _context.Authors.ToListAsync();
             return Ok(authors);
         }
-
-        //GET single user| api/user/:id
+                
         [HttpGet]
         [Route("{id}")]
         public async Task<IHttpActionResult> GetUserById(int id)
@@ -44,8 +43,7 @@ namespace NerdyNetwork.WepAPI.Controllers
             }
             return Ok(requestedUser);
         }
-
-        //PUT | api/user/id
+                
         [HttpPut]
         [Route("{id}")]
         public async Task<IHttpActionResult> UpdateUser([FromUri] int id, [FromBody] User updateUser)
@@ -71,7 +69,27 @@ namespace NerdyNetwork.WepAPI.Controllers
                 return (BadRequest(e.Message));
             }
         }
+                
+        [HttpDelete]
+        [Route("{id}")]
+        public async Task<IHttpActionResult> DeleteUser([FromUri] int id)
+        {
+            User requestedUser = await _context.Authors.FindAsync(id);
 
-        //DELETE | api/user/id
+            if (requestedUser == null)
+            {
+                return NotFound();
+            }
+            try
+            {
+                _context.Authors.Remove(requestedUser);
+                await _context.SaveChangesAsync();
+                return Ok();
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
     }
 }
