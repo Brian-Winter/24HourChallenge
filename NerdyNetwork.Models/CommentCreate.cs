@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace NerdyNetwork.Models
 {
-    class CommentCreate
+    public class CommentCreate
     {
         [Required]
         [MinLength(2, ErrorMessage = "Please enter at least two characters.")]

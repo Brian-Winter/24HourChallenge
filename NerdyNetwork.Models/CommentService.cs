@@ -2,12 +2,13 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Mime;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace NerdyNetwork.Models
 {
-    class CommentService
+    public class CommentService
     {
         private readonly int _PostId;
         public CommentService(int PostId)
@@ -29,9 +30,9 @@ namespace NerdyNetwork.Models
                 return content.SaveChanges() == 1;
             }
         }
-       //POST on Comment
-       //Get comment by Id -> create comment
-
+   
+       
+   
         //GET Post Comments (read all)
         public IEnumerable<CommentListItem> GetAllComments()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NerdyNetwork.Models
 {
-    class CommentListItem
+    public class CommentListItem
     {
         public int CommentId { get; set; }
         public string CommentText { get; set; }
