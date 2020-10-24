@@ -30,3 +30,9 @@ C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwor
 C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.csproj.CopyComplete
 C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.dll
 C:\ElevenFiftyProjects\NerdyNetworkAPI\NerdyNetwork.Models\obj\Debug\NerdyNetwork.Models.pdb
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Data.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Services.dll
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Data.pdb
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Data.dll.config
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Services.pdb
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\NerdyNetwork.WepAPI\NerdyNetwork.Models\bin\Debug\NerdyNetwork.Services.dll.config

@@ -16,8 +16,8 @@ namespace NerdyNetwork.Data
         [Required]
         [MaxLength(500, ErrorMessage = "Are you writing a novel? Only 500 characters please!")]
         public string Text { get; set; }
-        [ForeignKey("User")]
+        [ForeignKey(nameof(User))]
         public int UserId { get; set; }
-        public User Author { get; set; }
+        public User User { get; set; }
     }
 }

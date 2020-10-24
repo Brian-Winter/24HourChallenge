@@ -15,9 +15,10 @@ namespace NerdyNetwork.Data
         public string CommentText { get; set; }
         [ForeignKey(nameof(User))]
         public int UserId { get; set; }
-        public User Author { get; set; }
+        public virtual User User { get; set; }
+
         [ForeignKey(nameof(Post))]
         public int PostId { get; set; }
-        public virtual Post CommentPost { get; set; }
+        public virtual Post Post { get; set; }
     }
 }
